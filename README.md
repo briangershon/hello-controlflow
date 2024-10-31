@@ -2,6 +2,8 @@
 
 Start a project based on [ControlFlow](https://controlflow.ai/), a Python framework for building agentic AI workflows.
 
+Find example ControlFlow code to play with at <https://controlflow.ai/examples>.
+
 Features:
 
 - a template repo for starting a ControlFlow app
