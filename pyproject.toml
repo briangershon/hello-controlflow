@@ -5,5 +5,5 @@ description = "Play with ControlFlow and uv"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "controlflow>=0.11.1",
+    "controlflow>=0.11.3",
 ]

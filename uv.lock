@@ -281,7 +281,7 @@ wheels = [
 
 [[package]]
 name = "controlflow"
-version = "0.11.1"
+version = "0.11.3"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "ipython" },
@@ -297,9 +297,9 @@ dependencies = [
     { name = "tiktoken" },
     { name = "typer" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/85/6d/65a5b84d7fa7c317b3776238d38373a462a1105422931bee3c0b14b606fb/controlflow-0.11.1.tar.gz", hash = "sha256:2746422c9ddfb60c53db93f94eead2aca7670131a40d9546125a3d0868365c83", size = 1648915 }
+sdist = { url = "https://files.pythonhosted.org/packages/73/b1/ecc320bb5b4bd53668a3e4091b3101b15d0f288aab9295fc6ed99089c987/controlflow-0.11.3.tar.gz", hash = "sha256:fe190998438dcbd3507507a2fb2fa0b45fa6bbff910efca5aaaae5d18fd62b93", size = 1649398 }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/bb/fe/0976a7ba832cea3c57a9d03ebeb853083c02e357d74ca316f1ff3432936a/controlflow-0.11.1-py3-none-any.whl", hash = "sha256:b9f4f44f4883748d4a35aa44ece85346cc484111f116300518d5f705fd77b350", size = 91624 },
+    { url = "https://files.pythonhosted.org/packages/53/97/6e261e3c134c2d2f237797ac5afdb751ac48a1b8beecda28cffef5892bc9/controlflow-0.11.3-py3-none-any.whl", hash = "sha256:09d4a457b0b861b3947e748fe2b93e761a172e527ea9b5a464e89c68e75d0cbb", size = 92221 },
 ]
 
 [[package]]
@@ -544,7 +544,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "controlflow", specifier = ">=0.11.1" }]
+requires-dist = [{ name = "controlflow", specifier = ">=0.11.3" }]
 
 [[package]]
 name = "hpack"
